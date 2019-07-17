@@ -9,6 +9,7 @@ A curated collections of awesome one-line commands/scripts to do all kinds of th
 Copy and run, that's it :-).
 
 # One liners
+[docker](#docker)
 
 ## Docker
 
