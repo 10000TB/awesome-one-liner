@@ -8,10 +8,17 @@ A curated collections of awesome one-line commands/scripts to do all kinds of th
 
 Copy and run, that's it :-).
 
+Control-F to search by keyword to find whatever you need.
+
 # One liners
 [docker](#docker)
 
 ## Docker
 
-- [x] install docker  
-`curl -fsSL get.docker.com -o get-docker.sh && sh get-docker.sh`
+- [x] install docker
+`$ curl -fsSL get.docker.com -o get-docker.sh && sh get-docker.sh`
+
+## Bash
+- [x] Generate a sequence of numbers
+`$ for i in {1..10};do echo $i;done`
+`$ for i in {2..20};do echo $i;done`
