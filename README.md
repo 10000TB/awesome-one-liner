@@ -12,7 +12,7 @@ Control-F to search by keyword to find whatever you need.
 
 # One liners
 
-[Bash](#bash)
+[Bash](#bash)  
 [Docker](#docker)
 
 ## Docker
