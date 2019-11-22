@@ -12,7 +12,7 @@ Control-F to search by keyword to find whatever you need.
 
 # One liners
 
-[Git](#git)
+[Git](#git)  
 [Bash](#bash)  
 [Docker](#docker)
 
