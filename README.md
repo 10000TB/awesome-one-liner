@@ -11,7 +11,10 @@ Copy and run, that's it :-).
 Control-F to search by keyword to find whatever you need.
 
 # One liners
-[docker](#docker)
+
+[Bash](#bash)
+
+[Docker](#docker)
 
 ## Docker
 
