@@ -20,5 +20,7 @@ Control-F to search by keyword to find whatever you need.
 
 ## Bash
 - [x] Generate a sequence of numbers
+
 `$ for i in {1..10};do echo $i;done`
+
 `$ for i in {2..20};do echo $i;done`
