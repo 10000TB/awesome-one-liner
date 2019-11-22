@@ -24,8 +24,7 @@ Control-F to search by keyword to find whatever you need.
 `$ for i in {1..10}; do echo $i; done`
 
 `$ for i in {2..20};do echo $i; done`
-  
-  
+
 - [x] Run multiple commands in one sudo
 
 `sudo -s <<< "echo hehe; echo hehe"`
@@ -34,4 +33,4 @@ Control-F to search by keyword to find whatever you need.
 
 `sudo -s <<< "apt update -y && apt upgrade -y"`
 
-explanation: run `sudo -h` to see help message. There is one option `s`, which is `-s, --shell                 run shell as the target user; a command may also be specified`, which lets you run shell command as sudo. Normally we can chain commands using `;`, so we can run multiple commands as target user `sudo`.
+>Explanation: run `sudo -h` to see help message. There is one option `s`, which is `-s, --shell                 run shell as the target user; a command may also be specified`, which lets you run shell command as sudo. Normally we can chain commands using `;`, so we can run multiple commands as target user `sudo`.
