@@ -40,3 +40,7 @@ Control-F to search by keyword to find whatever you need.
 `sudo -s <<< "apt update -y && apt upgrade -y"`
 
 >Explanation: run `sudo -h` to see help message. There is one option `s`, which is `-s, --shell                 run shell as the target user; a command may also be specified`, which lets you run shell command as sudo. Normally we can chain commands using `;`, so we can run multiple commands as target user `sudo`.
+
+## Awesome References
+
+[Base onliners](http://www.bashoneliners.com/oneliners/active/)
